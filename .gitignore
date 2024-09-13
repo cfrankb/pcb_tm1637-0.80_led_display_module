@@ -1,0 +1,5 @@
+revision0/backup/
+revision0/tm1637-0.80-backups/
+revision1/tm1637-0.80-backups/
+*.lck
+fp-info-cache
