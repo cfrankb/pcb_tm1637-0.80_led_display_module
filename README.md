@@ -4,6 +4,8 @@
 
 This is a pcb design for the 0.80" LED 7-Segments Display Module. The board is pin compatible with the standard 0.56" LED 7-Segments Display Module
 
+![Image](images/sch_tm1637_revision1.png "icon")
+
 
 ![Image](images/20240910_045835-crop.jpg "icon")
 
