@@ -4,10 +4,18 @@
 
 This is a pcb design for the 0.80" LED 7-Segments Display Module. The board is pin compatible with the standard 0.56" LED 7-Segments Display Module
 
+This hardware module is supported by a native C++ driver implementation (linked below), demonstrating a full-stack IoT approach from physical PCB to firmware abstraction.
+
 ![Image](images/sch_tm1637_revision1.png "icon")
 
 
 ![Image](images/20240910_045835-crop.jpg "icon")
+
+Reflowed using a controlled hotplate process with lead-free solder paste (SAC305). The screen was hand soldered using a standard soldering iron. The screen can be attached directly or socketed.
+
+![Image](images/tm1637-080-back-050.jpg "icon")
+
+
 
 ## Features
 
